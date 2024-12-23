@@ -1,0 +1,7 @@
+.hide-scrollbar {
+    overflow: auto; /* Enables scrolling */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none; /* Hides scrollbar in Chrome, Safari, and Edge */
+}
